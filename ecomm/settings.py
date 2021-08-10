@@ -84,8 +84,8 @@ DATABASES = {
         'NAME': 'django_rest_product_api',
         'USER': 'root',
         'PASSWORD': '',
-        'HOST': '127.0.0.1',
-        'PORT': '3307',
+        'HOST': 'https://eshopweb1.herokuapp.com/',
+        
     }
 }
 
